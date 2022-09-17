@@ -3,10 +3,10 @@
 #include <stdio.h>
 
 /**
- * main - Checks last digit 
- *
- * Return: Zero
- */
+*main-Checks last digit
+*
+*Return: Zero
+*/
 int main(void)
 {
 	int n;
