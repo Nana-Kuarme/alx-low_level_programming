@@ -1,4 +1,4 @@
-#include <srdio.h>
+#include <stdio.h>
 
 /**
  * main -Prints number between 00 to 89.
@@ -30,7 +30,8 @@ int main(void)
 				putchar(' ');
 			}
 			i++;
-		} e++;
+		}
+		e++;
 	}
 	putchar('\n');
 	return (0);
