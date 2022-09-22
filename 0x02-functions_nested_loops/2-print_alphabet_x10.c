@@ -11,6 +11,8 @@ void print_alphabet_10x(void)
 
 	for (i <= 9; i++)
 	{
+		char j = 0;
+
 		for (j = 'a'; j <= 'z'; j++)
 		{
 			_putchar(j);
