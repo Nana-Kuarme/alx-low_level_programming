@@ -9,7 +9,7 @@ void print_alphabet_10x(void)
 {
 	char i = 0, j;
 
-	for (i <= 9; i++)
+	for (i = 0, <= 9; i++)
 	{
 		char j = 0;
 
