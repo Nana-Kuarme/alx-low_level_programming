@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * prints_alphabets_10x - prints 10 times of the alhabets in lower case
+ * print_alphabet_x10 - prints 10 times of the alhabets in lower case
  *
  * Return: Always 0
  */
