@@ -16,13 +16,13 @@ int main(void)
 	while (i < 58)
 	{
 		i = 48;
-		while (i < 58)
+		while (i < 70)
 		{
 			if (e != i && e < i)
 			{
 				putchar(e);
 				putchar(i);
-				if (i == 57 && e == 56)
+				if (i == 69 && e == 68)
 				{
 					break;
 				}
