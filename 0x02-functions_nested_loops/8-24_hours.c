@@ -10,9 +10,12 @@ void jack_bauer(void)
 	int i;
 	int j;
 
-	for (i = 0; i <= 23)
+	i = 0;
+
+	while (i <= 23)
 	{
-		for (j = 0; i <= 59)
+		j = 0;
+		while (j <= 59)
 		{
 			_putchar((i / 10) + '0');
 			_putchar((i % 10) + '0');
